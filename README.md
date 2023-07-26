@@ -1,8 +1,4 @@
-## Team
-
-| [![dongkun Yoo](https://avatars.githubusercontent.com/u/73277351)](https://github.com/peppermintt0504) | 
-| :----------------------------------------------------------------------------------------------:       |
-|                           [dongkun Yoo](https://github.com/peppermintt0504)                            |
+# BOJ 백준 문제 풀이
 ## Git Commit Message
 
 | _Type_          | _Subject_                    |
